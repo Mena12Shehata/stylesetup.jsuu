@@ -1,0 +1,113 @@
+body{
+  background-color: black;
+  background-size: cover;
+  drop
+  background-image: url:("200w.gif")
+}
+
+h3{
+font-family: Georgia, serif;
+  color: #38B66C;
+  text-align: center;
+  text-shadow:  3px#38B66C;
+border: double #38B66C
+
+}
+
+
+div.klo{
+  background-color: green;
+  color: green;
+}
+
+
+
+img{
+   
+   height:px;
+  width:3px
+ 
+}
+
+
+img.klop{
+  background-size: cover;
+  width: 345px
+  
+}
+
+
+
+
+h1{
+  
+  font-family:Gill Sans, serif;
+  
+  
+  
+color:black;
+text-align:center ;
+background-color: white;
+border-radius: 10px 10px
+
+ 
+}
+
+
+p{
+  font-family: monospace, serif;
+  
+  text-align: right;
+color: green;
+direction:rtl;
+border-radius: 10px 10px
+}
+
+small{
+  color:green;
+}
+  
+  
+  
+h2{
+  font-family: Georgia, serif;
+  color: black;
+  
+  background-color: red;
+  text-align: center;
+  box-shadow: 10px red;
+  background-color: red;
+  border-radius: 10px 10px
+}
+
+
+
+iframe{
+    width: 333px;
+    height: 200px;
+    
+    border: double 5px green;
+}
+
+
+
+hr{
+  width: 300px;
+  height: 200px;
+  border: solid 1px red;
+  border-radius: 10px 10px
+}
+
+h4{
+  color: red;
+}
+
+
+object{
+  color: red;
+}
+
+
+window{
+  color: black;
+}
